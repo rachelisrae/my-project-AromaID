@@ -1,6 +1,7 @@
 # 🚀 AromaID – Autonomous IoT Robot for Real-Time Odor Detection
 
 ## 🎥 Demo
+![Robot Demo](demo.gif)
 ▶️ [Watch full demo video](https://drive.google.com/file/d/1MG78STgNTEv-HPWVZA0KQI0r78wlkXUO/view?usp=sharing)
 
 
